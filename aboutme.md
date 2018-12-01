@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: What you didnt know about Hummus
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Guru Shiva. Some in the infosec and ML/AI community knows me as Hummus(mostly because I worship Hummus. I consider one with the Hummus).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My current role is that of a Security Analyst where I do Red Team. Blue Team, Hummus Team stuff. I also sm a machine learning/aritificial intelligence enthusiast.
 
-What else do you need?
 
-### my history
+### My Professional History
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+A brief view on what I have worked as:
+
+- Systems Analyst
+- Systems Administrator
+- Technical Operations Manager
+- Security Analyst (currently)
+
+In all these roles, I have found myself to dabble in code( Python and web stuff mostly), network security etc
