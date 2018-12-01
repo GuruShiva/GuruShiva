@@ -16,7 +16,7 @@ A brief view on what I have worked as:
 - Systems Analyst
 - Systems Administrator
 - Technical Operations Manager
-- Security Analyst (currently)
+
 
 In all of these roles, I have found myself to dabble in code( Python and web stuff mostly), network security etc.
 
