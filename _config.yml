@@ -25,14 +25,12 @@ description: I talk about random shenanigans regarding code, security, machine l
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - My GitHub: "https://github.com/GuruShiva"
   Author's home: "http://guruscode.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/hummus-avatar.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -72,7 +70,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "guru.shiva@protonmail.com"
+  email: "youknowwheretofindme@theinternet.com"
   facebook: 
   github: https://github.com/GuruShiva
   twitter: 6uRusC0d3
