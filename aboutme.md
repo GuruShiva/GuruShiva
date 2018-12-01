@@ -6,7 +6,7 @@ subtitle: What you didnt know about Hummus
 
 My name is Guru Shiva. Some in the infosec and ML/AI community knows me as Hummus (mostly because I worship Hummus. I consider one with the Hummus).
 
-My current role is that of a Security Analyst where I do Red Team. Blue Team, Hummus Team stuff. I also am a machine learning/aritificial intelligence enthusiast.
+My current role is that of a Security Analyst where I do Red Team. Blue Team, Hummus Team stuff. I also am a machine learning/artificial intelligence enthusiast.
 
 
 ### My Professional History
