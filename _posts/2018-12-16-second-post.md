@@ -31,7 +31,7 @@ This also happens to be my first time testing out GraphQL and its magical capabi
 
 I launch POSTMAN (an app that I now have more respect towards after that adventurous evening) and put in my first query 
 
-![graphqlget1](/img/graphql/graphqlget4_result1.1.png)
+![graphqlget1](/img/graphql/graphqlget1.1.png)
 
 The Graphql endpoint returns this:
 
