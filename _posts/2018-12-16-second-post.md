@@ -15,7 +15,7 @@ It was during one of these infosec community meetups that a bunch of us got a ch
 
 **DISCLAIMER:** *ALL THE TESTS DEMONSTRATED BELOW WERE DONE WITH THE EXPLICIT PERMISSION FROM THE OWNERS OF THE APPLICATION. USE THIS ARTICLE FOR EDUCATION/INFORMATIONAL PURPOSES ONLY. THE AUTHOR AND OTHER PEOPLE MENTIONED IN THIS BLOG DO NOT CONDONE ANY ILLEGAL HACKING ACITVITIES. ALWAYS PERFORM SECURIY TESTS ONLY ON APPLICATIONS,NETWORKS OR ANY EQUIPMENT THAT YOU OWN OR HAVE RECIEVED EXPLICIT PERMISSIONS FROM THE OWNER*.
 
-Ok, now for a little tale on how [Bobby](https://xkcd.com/327/) or in this case Hummus(me) dropped a GraphQL schema [skip to GraphQL part](#graphql) all with the help of some great infosec folks that helped me grow in this field.
+Ok, now for a little tale on how [Bobby](https://xkcd.com/327/) or in this case Hummus(me) dropped a GraphQL schema [(skip to GraphQL part)](#graphql) all with the help of some great infosec folks that helped me grow in this field.
 
 It was a friday evening after work when a group of us joined for some pizza, burbon and some good stuff of vulnerability testing. The application we were to test is the up-to-date version which will be pushed to production soon which makes it even more exicting if we found any vulnerabilties. 
 
@@ -37,7 +37,7 @@ The Graphql endpoint returns this:
 
 ![graphqlgetresult1](/img/graphql/graphqlget1_result1.1.png)
 
-oh look! what do we have here. In the day and age of smart recommending engines, GraphQL is also being helpful. It tells me that the `Email` query does not exist but suggests that I might be looking for `emailExist` query. Am I looking for the `emailExist` query? why yes GraphQL, thats exactly what I meant. At this point, I am getting even more excited. What's more, I didnt even have to use authorization tokens to query this. 
+Oh look! what do we have here? In the day and age of smart recommending engines, GraphQL is also being helpful. It tells me that the `Email` query does not exist but suggests that I might be looking for `emailExist` query. Am I looking for the `emailExist` query? why yes GraphQL, thats exactly what I meant. At this point, I am getting even more excited. What's more, I didnt even have to use authorization tokens to query this. 
 
 ![excite1](/img/excite1.gif)
 
