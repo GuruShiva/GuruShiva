@@ -2,6 +2,7 @@
 layout: post
 title: Bobby Drop That GraphQL Schema
 image: /img/graphql/graphql.png
+social-share: true
 ---
 
 Being part of an active infosec community is one of the best things where you get to learn some new technologies, tricks, and also pass on the knowledge to eager beginners or even the seasoned pros. 
